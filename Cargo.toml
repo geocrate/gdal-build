@@ -2,7 +2,7 @@
 name = "gdal-build"
 version = "3.100.0"
 edition = "2021"
-description = "A link utility for gdal-win crate"
+description = "A linker utility for gdal-win crate"
 license = "Apache-2.0"
 documentation = "https://github.com/geocrate/gdal-build"
 homepage = "https://github.com/geocrate/gdal-build"
