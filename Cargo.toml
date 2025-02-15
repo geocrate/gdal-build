@@ -2,6 +2,11 @@
 name = "gdal-build"
 version = "3.100.0"
 edition = "2021"
+description = "A build / link utility for GDAL"
+license = "MIT OR Apache-2.0"
+documentation = "https://docs.rs/gdal-build"
+homepage = "https://github.com/geocrate/gdal-build"
+repository = "https://github.com/geocrate/gdal-build"
 
 [dependencies]
 reqwest = { version = "0.12.12", features = ["blocking"] }
