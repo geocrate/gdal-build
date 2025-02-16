@@ -1,12 +1,10 @@
 [package]
-name = "gdal-build"
+name = "gdal-setup"
 version = "3.100.0"
 edition = "2021"
-description = "A linker utility for gdal-win crate"
+description = "A setup utility for gdal-win crate (lib / dll)"
 license = "Apache-2.0"
-documentation = "https://github.com/geocrate/gdal-build"
-homepage = "https://github.com/geocrate/gdal-build"
-repository = "https://github.com/geocrate/gdal-build"
+repository = "https://github.com/geocrate/gdal-setup"
 
 [dependencies]
 reqwest = { version = "0.12.12", features = ["blocking"] }
