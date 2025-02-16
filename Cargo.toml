@@ -2,7 +2,7 @@
 name = "gdal-setup"
 version = "3.100.0"
 edition = "2021"
-description = "A setup utility for gdal-win crate (lib / dll)"
+description = "A setup (lib / dll) utility for gdal-win crate"
 license = "Apache-2.0"
 repository = "https://github.com/geocrate/gdal-setup"
 
